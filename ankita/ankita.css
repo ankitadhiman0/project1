@@ -1,0 +1,52 @@
+.a{
+    font-size: 2rem;
+    color: blue;
+    text-align: center;
+    
+
+}
+.b{
+    font-style: italic;
+    text-align: right;
+    color: rgb(235, 8, 8);
+    
+}
+.c{
+    color: blueviolet;
+    font-size: 3rem;
+}
+
+ul
+{
+    color: #e2179ef5;
+    font-size: 2rem;
+}
+ol
+{
+    font-size:2rem ;
+    color: blue;
+    font-style: italic;
+}
+button{
+    font-size:1rem ;
+    border-radius: 0%;
+    font-style: italic;
+
+}
+.ac
+{
+    height:15rem;
+}
+
+.hanumanimg{
+    font-style: italic;
+    font-size: 3rem;
+    color: pink;
+    margin-top:  -12px;
+    
+}
+.busimg
+{
+    margin-left: 15rem;
+    margin-top: -100px;
+}
